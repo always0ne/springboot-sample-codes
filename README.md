@@ -1,68 +1,32 @@
-# Repository Quick Start template
+# Spring boot Sample Codes
 ## Index
   - [Overview](#overview) 
-  - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [Authors](#authors)
   - [License](#license)
-<!--  Other options to write Readme
-  - [Deployment](#deployment)
-  - [Used or Referenced Projects](Used-or-Referenced-Projects)
--->
-## About RepositoryTemplate
-<!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
+## About Spring boot Sample Codes
+이 프로젝트의 목적은 처음 spring boot를 접해보는 사람들이 예제로 참고할 수 있는 샘플 코드를 만들고 수집함에 있습니다.
 
 ## Overview
-<!-- Write Overview about this project -->
-**If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+### JWT
+springboot 환경에서 JWT토큰을 사용한 인증 기능 구현입니다.
+- [Spring Boot + JJWT](https://github.com/always0ne/springboot-jwt-auth)
+- [Spring Boot + JJWT + Webflux](https://github.com/always0ne/springboot-webflux-jwt-auth)
+### FCM
+Firebase Cloud Messaging 을 사용하여 클라이언트에 푸시 메시지를 전송하는 기능 구현입니다.
+- [Spring Boot + FCM](https://github.com/always0ne/spring-boot-fcm)
+### RestAPI
+간단한 RestAPI 기능 구현 입니다.
+- [Spring Boot RestAPI Template](https://github.com/always0ne/SpringBootRestApiTemplate)
 
-## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
-### Installing
-<!-- A step by step series of examples that tell you how to get a development 
-env running
-
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
--->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
-<!--
-## Deployment
- Add additional notes about how to deploy this on a live system
- -->
 ## Contributing
-<!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+이 프로젝트의 목적은 처음 spring boot를 접해보는 사람이 쉽게 사용해 볼 수 있도록 함에 있습니다.  
+[CONTRIBUTING.md](CONTRIBUTING.md) 을 읽어보신 후 규칙에 맞게 작성하고, PR을 날려주세요 ㅎㅎ
 
 ## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
+  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@always0ne.dev@gmail.com>
 
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
-who participated in this project.
-<!--
-## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
+[contributors](https://github.com/always0ne/springboot-sample-codes/contributors) 에서 기여자들을 볼 수 있습니다.
 
 ## License
 

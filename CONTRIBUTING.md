@@ -1,8 +1,6 @@
-# Contributing to repositoryTemplate
-
-Thank you for contributing to repositoryTemplate
-We have some rules to contribute this project
-
+# 프로젝트 에 기여하기
+프로젝트에 기여하기로 결심해주셔서 정말 감사합니다.
+이 프로젝트에는 몇가지 규칙이 있으니 지켜주시기 바랍니다. 
 * [Commit](#commit)
 * [Issues](#issues)
 * [Branch](#branch)
@@ -10,29 +8,18 @@ We have some rules to contribute this project
 * [Code Check](#code-Check)
 * [Developer's Certificate of Origin 1.1](#developers-certificate-of-origin)
 
-## How To Contribute
+## 기여하기
 ### commit
-- Must Follow commit Template  
-(Need to set `git config --local commit.template .github/.gitmessage.txt` on your local)
-- link issue at resolves, see also
-- 1 commit 1 work(for history)
+- 커밋 템플릿을 지켜주세요  
+(클론을 받은 후  위 명령어를 입력하여 템플릿을 지켜주세요 `git config --local commit.template .github/.gitmessage.txt`)
+- 히스토리 관리를 위하여 1작업 1커밋 규칙을 지켜주세요
 
 ### issues
-- 1 task 1 issue(ex. ~bugfix, ~feature request)
-
-### branch
-- we use gitflow Work Flow
-- ex) `feature/(Issue Num)-(task)`
+- 이슈는 템플릿에 맞춰서 자유롭게 달아주셔도 됩니다. ㅎㅎ
 
 ### pull requests
-- create pull request to develop branch after your task is done
-- code can merge after get at least 1 approve after reviews
-
-### code Check
-- must check diff and commit 
-    - Don't contain Personal Setting 
-    - Commit only the code for the specified task
-- check code conventions before commit
+- 작업이 모두 끝난 뒤 템플릿에 맞추어 Pull Request 를 요청해주세요
+- 1명 이상의 리뷰어가 리뷰를 해야 머지될 수 있습니다.
 
 ## Developer Certificate of Origin
 Version 1.1
