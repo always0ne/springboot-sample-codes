@@ -18,6 +18,9 @@ Firebase Cloud Messaging 을 사용하여 클라이언트에 푸시 메시지를
 ### RestAPI
 간단한 RestAPI 기능 구현 입니다.
 - [Spring Boot RestAPI Template](https://github.com/always0ne/SpringBootRestApiTemplate)
+### MicroService Architecture
+멀티모듈을 사용한 마이크로서비스 아키텍처 템플릿 입니다.
+- [springboot-multimodule-msa](https://github.com/always0ne/springboot-multimodule-msa)
 
 ## Contributing
 이 프로젝트의 목적은 처음 spring boot를 접해보는 사람이 쉽게 사용해 볼 수 있도록 함에 있습니다.  
