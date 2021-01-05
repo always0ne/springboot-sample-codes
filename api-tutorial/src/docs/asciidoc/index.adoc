@@ -1,0 +1,17 @@
+= Post REST API Guide
+Always0ne;
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+:operation-curl-request-title: Example request
+:operation-http-response-title: Example response
+
+
+[[insertPost]]
+=== 게시글 작성
+`Post` 요청을 사용해서 게시글을 작성 할 수 있다.
+
+operation::insert-post[snippets='http-request,request-fields,http-response,response-fields']
